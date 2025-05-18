@@ -28,7 +28,7 @@ This project is an Express.js-based backend that integrates **Google Gemini 1.5 
   - Hugging Face Transformers (BART MNLI)
 - **Database:** MongoDB
 - **Authentication:** Express-session
-- **Language:** TypeScript (recommended)
+- **Language:** JavaScript
 
 ---
 
